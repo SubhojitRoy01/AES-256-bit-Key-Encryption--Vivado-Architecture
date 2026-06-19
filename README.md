@@ -35,4 +35,4 @@ To resolve the 500+ pin bottleneck, the architecture will transition from direct
 
 
 ## Synthesized RTL Schematic
-![RTL Schematic Layout](rtl_schematic.png)
+![AES-256 Top-Level Schematic](aes_256_schematic.png)
